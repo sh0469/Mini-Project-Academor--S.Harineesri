@@ -6,4 +6,5 @@ With educational value, creative challenges, and engaging gameplay, it's a fun w
 
 Clone or download the repository, run the Source Code.py file, and embark on a journey of decoding and discovery. 
 We welcome contributions and feedback to further enrich this experience. 
+
 Thank you for playing the Cipher Riddle Challenge!
